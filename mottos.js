@@ -1,6 +1,6 @@
 
 let mottoAdjektive = ['Betrunkene', 'Fuckable', 'Sexy']
-let mottoBerufe = ['Klemptnerin', 'Gärtnerin', 'Forscherin'];
+let mottoBerufe = ['Klempnerin', 'Gärtnerin', 'Forscherin'];
 let mottoKleidung = ['Latex', 'Underware only', 'Italienische Leinen'];
 
 // Hashing function from https://stackoverflow.com/questions/7616461/generate-a-hash-from-string-in-javascript 
